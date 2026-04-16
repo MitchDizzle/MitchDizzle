@@ -1,16 +1,29 @@
-## Hi there 👋
+# Mitchell Gardner
 
-<!--
-**MitchDizzle/MitchDizzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 12+ years of experience in DevOps, platform engineering, and backend development.
+I specialize in CI/CD infrastructure, container orchestration, and security-conscious build tooling at enterprise scale.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:** Java · Python · JavaScript · Ruby · Bash · PowerShell · SourcePawn  
+**CI/CD:** Jenkins · GitHub Actions · Spinnaker · Maven  
+**Cloud & Infra:** AWS · OCI · Docker · Kubernetes  
+**Security:** Fortify · CVE Remediation · Vulnerability Scanning  
+**Tools:** Git · Jira · Agile/Kanban
+
+---
+
+## Currently
+
+- Building new projects — focused on mobile and tooling
+- Pursuing CompTIA Security+ and Network+
+- Open to Software Engineer, DevOps, and Platform Engineering roles (remote)
+
+---
+
+## Connect
+
+- 🌐 [mtch.tech](https://mtch.tech)
+- [LinkedIn](https://linkedin.com/in/mitchell-r-gardner)
