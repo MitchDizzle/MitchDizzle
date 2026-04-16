@@ -1,17 +1,15 @@
 # Mitchell Gardner
 
-Software Engineer with 12+ years of experience in DevOps, platform engineering, and backend development.
-I specialize in CI/CD infrastructure, container orchestration, and security-conscious build tooling at enterprise scale.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Software+Engineer+%7C+DevOps+%26+Platform;12%2B+Years+Enterprise+CI%2FCD;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+
+Software engineer specializing in CI/CD infrastructure, container orchestration, and
+security-conscious build tooling at enterprise scale.
 
 ---
 
 ## Tech Stack
 
-**Languages:** Java · Python · JavaScript · Ruby · Bash · PowerShell · SourcePawn  
-**CI/CD:** Jenkins · GitHub Actions · Spinnaker · Maven  
-**Cloud & Infra:** AWS · OCI · Docker · Kubernetes  
-**Security:** Fortify · CVE Remediation · Vulnerability Scanning  
-**Tools:** Git · Jira · Agile/Kanban
+[![Skills](https://skillicons.dev/icons?i=java,python,js,ruby,bash,docker,kubernetes,aws,jenkins,github)](https://skillicons.dev)
 
 ---
 
